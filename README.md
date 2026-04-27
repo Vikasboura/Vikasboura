@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VikasBoura&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+![https://github.com/ML4SCI/DeepLense](https://github-contributor-stats.vercel.app/api?username=VikasBoura&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
